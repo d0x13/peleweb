@@ -11,6 +11,8 @@
 
 #pelepic {
     border-radius: 50%;
+    border: 2px black solid;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 }
 #des h2 {
     text-align: center;
